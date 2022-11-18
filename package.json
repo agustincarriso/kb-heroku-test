@@ -25,7 +25,8 @@
     "@dcl/npc-scene-utils": "^1.5.0",
     "@dcl/ui-scene-utils": "^1.8.4",
     "dash": "^3.22.13",
-    "dcldash": "^0.0.33"
+    "dcldash": "^0.0.33",
+    "decentraland": "^3.13.0"
   },
   "bundledDependencies": [
     "@dcl/ecs-scene-utils",
